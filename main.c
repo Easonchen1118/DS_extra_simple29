@@ -1,5 +1,5 @@
 #include <stdio.h>
-//身分證驗證器
+//身分證驗證器https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30779
 int main(){
     int n1, n2, n3, n4, n5, n6, n7, n8, n9;
     char alpha;
